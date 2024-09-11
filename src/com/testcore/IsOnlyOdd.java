@@ -10,6 +10,7 @@ public class IsOnlyOdd {
 		for(int i=0;i<list.length;i++) {
 			if (list[i]%2==0)
 				return false;
+				break;
 		}
 		return true;
 	}

@@ -14,7 +14,6 @@ public class StringReverse {
 			}
 		}
 		System.out.println(result);
-
 	}
 
 }

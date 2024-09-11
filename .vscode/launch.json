@@ -1,0 +1,175 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AnagramTest",
+            "request": "launch",
+            "mainClass": "com.testcore.AnagramTest",
+            "projectName": "TestCore"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "com.testcore.BinarySearch",
+            "projectName": "TestCore"
+        },
+        {
+            "type": "java",
+            "name": "CallableTest",
+            "request": "launch",
+            "mainClass": "com.testcore.CallableTest",
+            "projectName": "TestCore"
+        },
+        {
+            "type": "java",
+            "name": "CollectionTest",
+            "request": "launch",
+            "mainClass": "com.testcore.CollectionTest",
+            "projectName": "TestCore"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionTest",
+            "request": "launch",
+            "mainClass": "com.testcore.ExceptionTest",
+            "projectName": "TestCore"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "com.testcore.Factorial",
+            "projectName": "TestCore"
+        },
+        {
+            "type": "java",
+            "name": "Fiboncci",
+            "request": "launch",
+            "mainClass": "com.testcore.Fiboncci",
+            "projectName": "TestCore"
+        },
+        {
+            "type": "java",
+            "name": "InnerClassTest",
+            "request": "launch",
+            "mainClass": "com.testcore.InnerClassTest",
+            "projectName": "TestCore"
+        },
+        {
+            "type": "java",
+            "name": "IsOnlyOdd",
+            "request": "launch",
+            "mainClass": "com.testcore.IsOnlyOdd",
+            "projectName": "TestCore"
+        },
+        {
+            "type": "java",
+            "name": "LeftShiftString",
+            "request": "launch",
+            "mainClass": "com.testcore.LeftShiftString",
+            "projectName": "TestCore"
+        },
+        {
+            "type": "java",
+            "name": "LeftTriangle",
+            "request": "launch",
+            "mainClass": "com.testcore.LeftTriangle",
+            "projectName": "TestCore"
+        },
+        {
+            "type": "java",
+            "name": "LowestDifferencePairs",
+            "request": "launch",
+            "mainClass": "com.testcore.LowestDifferencePairs",
+            "projectName": "TestCore"
+        },
+        {
+            "type": "java",
+            "name": "MapTest",
+            "request": "launch",
+            "mainClass": "com.testcore.MapTest",
+            "projectName": "TestCore"
+        },
+        {
+            "type": "java",
+            "name": "MatchListWithMap",
+            "request": "launch",
+            "mainClass": "com.testcore.MatchListWithMap",
+            "projectName": "TestCore"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "com.testcore.Palindrome",
+            "projectName": "TestCore"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumber",
+            "request": "launch",
+            "mainClass": "com.testcore.PrimeNumber",
+            "projectName": "TestCore"
+        },
+        {
+            "type": "java",
+            "name": "SecondHighestInArray",
+            "request": "launch",
+            "mainClass": "com.testcore.SecondHighestInArray",
+            "projectName": "TestCore"
+        },
+        {
+            "type": "java",
+            "name": "SortArray",
+            "request": "launch",
+            "mainClass": "com.testcore.SortArray",
+            "projectName": "TestCore"
+        },
+        {
+            "type": "java",
+            "name": "StringReverse",
+            "request": "launch",
+            "mainClass": "com.testcore.StringReverse",
+            "projectName": "TestCore"
+        },
+        {
+            "type": "java",
+            "name": "SwapTwoNumbers",
+            "request": "launch",
+            "mainClass": "com.testcore.SwapTwoNumbers",
+            "projectName": "TestCore"
+        },
+        {
+            "type": "java",
+            "name": "ThreadComm",
+            "request": "launch",
+            "mainClass": "com.testcore.ThreadComm",
+            "projectName": "TestCore"
+        },
+        {
+            "type": "java",
+            "name": "ThreadTest",
+            "request": "launch",
+            "mainClass": "com.testcore.ThreadTest",
+            "projectName": "TestCore"
+        },
+        {
+            "type": "java",
+            "name": "VowelCheck",
+            "request": "launch",
+            "mainClass": "com.testcore.VowelCheck",
+            "projectName": "TestCore"
+        }
+    ]
+}
